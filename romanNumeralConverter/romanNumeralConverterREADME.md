@@ -1,10 +1,10 @@
-Roman Numeral Converter
+# Roman Numeral Converter
 
 Convert the given number into a roman numeral.
 
 All roman numerals answers should be provided in upper-case.
 
-Tests:
+## Tests:
 
 convertToRoman(2) should return the string II.
 
